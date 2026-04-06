@@ -1,4 +1,4 @@
-Founder of Cobuilt and Paperflow. 🇧🇷🇬🇧
+Founder of Cobuilt and Paperflow. 🇧🇷 🇬🇧
 
 > You can contact through my [email](mailto:titoluccao@gmail.com) or [LinkedIn](https://www.linkedin.com/in/tito-oliveira/)
 
@@ -10,6 +10,7 @@ Founder of Cobuilt and Paperflow. 🇧🇷🇬🇧
 
 - Allows users to create drafts, explore alternative directions, and compare versions side-by-side.
 - Built with a focus on privacy, ensuring texts are not used to train AI models.
+- Being developed in [Open Source](https://github.com/Panemiko/Paperflow) repositories.
 - **Stack:** Next.js, TypeScript, React, PostgreSQL, Tailwind CSS.
 
 ### 🖥️ [Cobuilt](https://cobuilt.com.br)
@@ -35,7 +36,8 @@ Founder of Cobuilt and Paperflow. 🇧🇷🇬🇧
 **Interactive digital character sheet for tabletop RPGs.**
 
 - Supports custom rule systems and real-time database synchronization.
-- Includes user authentication and interactive UI for complex game data.
+- Features a built-in virtual dice roller for automated skill checks and combat.
+- Responsive layout designed for second-screen use during tabletop sessions.
 - **Stack:** JavaScript, Vite, React, MySQL, Prisma ORM, Websockets, Tailwind CSS.
 
 ### 💼 [CRM](https://github.com/Panemiko/CRM)
