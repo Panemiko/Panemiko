@@ -1,5 +1,7 @@
 Founder of Cobuilt and Paperflow.
-You can contact through my [email](mailto:[EMAIL_ADDRESS]) or [LinkedIn](https://www.linkedin.com/in/tito-oliveira/)
+
+&nbsp;
+You can contact through my [email](mailto:titoluccao@gmail.com) or [LinkedIn](https://www.linkedin.com/in/tito-oliveira/)
 
 ## Products
 
