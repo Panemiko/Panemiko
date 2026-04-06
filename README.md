@@ -1,10 +1,10 @@
-Founder of Cobuilt and Paperflow.
+Founder of Cobuilt and Paperflow. 🇧🇷🇬🇧
 
 > You can contact through my [email](mailto:titoluccao@gmail.com) or [LinkedIn](https://www.linkedin.com/in/tito-oliveira/)
 
 ## Products
 
-### [Paperflow](https://getpaperflow.com)
+### 📝 [Paperflow](https://getpaperflow.com)
 
 **Professional writing tool with Git-style versioning for writers.**
 
@@ -12,7 +12,7 @@ Founder of Cobuilt and Paperflow.
 - Built with a focus on privacy, ensuring texts are not used to train AI models.
 - **Stack:** Next.js, TypeScript, React, PostgreSQL, Tailwind CSS.
 
-### [Cobuilt](https://cobuilt.com.br)
+### 🖥️ [Cobuilt](https://cobuilt.com.br)
 
 **Commercial platform for custom PC assembly with active sales.**
 
@@ -22,7 +22,7 @@ Founder of Cobuilt and Paperflow.
 
 ## Projects
 
-### [ImageReader](https://github.com/Panemiko/image-reader)
+### 🔍 [ImageReader](https://github.com/Panemiko/image-reader)
 
 **Accessibility-focused mobile system built for a 2025 Hackathon.**
 
@@ -30,7 +30,7 @@ Founder of Cobuilt and Paperflow.
 - Developed as a Progressive Web App (PWA) for immediate mobile accessibility.
 - **Stack:** TypeScript, Next.js, AI Integration, TTS, PWAs, Tailwind CSS.
 
-### [WebStats](https://github.com/Panemiko/WebStats)
+### 🎲 [WebStats](https://github.com/Panemiko/WebStats)
 
 **Interactive digital character sheet for tabletop RPGs.**
 
@@ -38,7 +38,7 @@ Founder of Cobuilt and Paperflow.
 - Includes user authentication and interactive UI for complex game data.
 - **Stack:** JavaScript, Vite, React, MySQL, Prisma ORM, Websockets, Tailwind CSS.
 
-### [CRM](https://github.com/Panemiko/CRM)
+### 💼 [CRM](https://github.com/Panemiko/CRM)
 
 **Self-hosted customer management system for local deployment.**
 
