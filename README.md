@@ -1,16 +1,46 @@
-## Hi there 👋
+Founder of Cobuilt and Paperflow.
+You can contact through my [email](mailto:[EMAIL_ADDRESS]) or [LinkedIn](https://www.linkedin.com/in/tito-oliveira/)
 
-<!--
-**Panemiko/Panemiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Products
 
-Here are some ideas to get you started:
+### [Paperflow](https://getpaperflow.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Professional writing tool with Git-style versioning for writers.**
+
+- Allows users to create drafts, explore alternative directions, and compare versions side-by-side.
+- Built with a focus on privacy, ensuring texts are not used to train AI models.
+- **Stack:** Next.js, TypeScript, React, PostgreSQL, Tailwind CSS.
+
+### [Cobuilt](https://cobuilt.com.br)
+
+**Commercial platform for custom PC assembly with active sales.**
+
+- High-performance landing page optimized for conversion and paid marketing campaigns.
+- Features a streamlined sales funnel and fast loading times for real-world traffic.
+- **Stack:** Next.js, TypeScript, React, Redis, Tailwind CSS.
+
+## Projects
+
+### [ImageReader](https://github.com/Panemiko/image-reader)
+
+**Accessibility-focused mobile system built for a 2025 Hackathon.**
+
+- Uses real-time computer vision to describe surroundings via audio for blind users.
+- Developed as a Progressive Web App (PWA) for immediate mobile accessibility.
+- **Stack:** TypeScript, Next.js, AI Integration, TTS, PWAs, Tailwind CSS.
+
+### [WebStats](https://github.com/Panemiko/WebStats)
+
+**Interactive digital character sheet for tabletop RPGs.**
+
+- Supports custom rule systems and real-time database synchronization.
+- Includes user authentication and interactive UI for complex game data.
+- **Stack:** JavaScript, Vite, React, MySQL, Prisma ORM, Websockets, Tailwind CSS.
+
+### [CRM](https://github.com/Panemiko/CRM)
+
+**Self-hosted customer management system for local deployment.**
+
+- Focused on simplicity and high-speed deployment for freelance operations.
+- Integrates data management with a clean, functional administrative interface.
+- **Stack:** JavaScript, Next.js, React, MySQL, Prisma ORM.
