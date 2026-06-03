@@ -1,4 +1,4 @@
-Founder of Cobuilt and Paperflow. 🇧🇷 🇬🇧
+Hi there!
 
 > You can contact through my [email](mailto:titoluccao@gmail.com) or [LinkedIn](https://www.linkedin.com/in/tito-oliveira/)
 
