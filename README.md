@@ -1,4 +1,8 @@
-Hi there!
+## Hi, I'm Tito 👋
+
+I'm a full-stack developer who builds products and experiences.
+I care about developer experience, clean architecture, and shipping things that actually work.
+Currently building [Paperflow](https://getpaperflow.com) and open to new opportunities (please i need a job).
 
 > You can contact through my [email](mailto:titoluccao@gmail.com) or [LinkedIn](https://www.linkedin.com/in/tito-oliveira/)
 
